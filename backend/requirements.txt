@@ -1,0 +1,13 @@
+flask==3.0.0
+flask-cors==4.0.0
+pillow==10.1.0
+torch>=2.0.0
+torchvision>=0.15.0
+fastai>=2.7.0
+numpy<2.0,>=1.24.0
+opencv-python<4.9,>=4.8.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+ffmpeg-python>=0.2.0
+yt-dlp>=2023.0.0
+

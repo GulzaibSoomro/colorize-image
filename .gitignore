@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_*.jpg
+temp_*.png
+uploads/
+*.log
+
+# DeOldify models and cache
+# backend/DeOldify/models/
+# backend/DeOldify/.fastai/
+# backend/DeOldify/.torch/
+models/
